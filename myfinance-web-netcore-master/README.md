@@ -1,7 +1,8 @@
 # MF - My Finance
 
-Projeto de controle de finanças pessoais
+O projeto MyFinance, desenvolvido como parte do Curso de Pós-Graduação em Engenharia da Computação na PUC-MG, tem como objetivo fornecer uma solução de controle financeiro pessoal para seus usuários. Com sua interface amigável e intuitiva, o software ajuda os usuários a medir, rastrear e controlar suas finanças de forma eficaz.
 
+O controle financeiro pessoal é essencial para garantir a saúde financeira a curto e longo prazo e para alcançar objetivos financeiros de longo prazo, como economizar para uma casa ou uma aposentadoria confortável. Com o MyFinance, os usuários podem gerenciar suas despesas e receitas, definir orçamentos, criar metas financeiras e acompanhar seu progresso ao longo do tempo.
 
 ## Tecnologias
 
@@ -20,20 +21,23 @@ Para o projeto utilizamos o banco de dados relacional SQL Server, seguindo a mod
 - O banco de dados através se encontra no script: (myfinance-web-netcore\database\myfynance.sql)
 
 
-## Arquitetura
-
-O projeto foi divido em camadas, seguindo boas práticas de arquitetura, conforme desenho:
-
-Desenhar a arquitetura
-
-
-
 ## Como rodar o projeto
 
 Para executar o projeto: 
-- Na pasta myfinance-web-netcore/src via terminal CMD, executar o comando `dotnet run`
+- Na pasta myfinance-web-netcore/src via terminal CMD, executar o comando `dotnet run`.
+É necessário possuir instalado a última versão do Visual Studio Code juntamente com a versão 6.0 em diante do SDK.net.
 
+## Funcionalidades
 
-## Navegando no sistema
+## Criar Despesas
+<img src="docs/telas/planodecontas.png">
+Nessa aba, o usuário pode inserir ou remover contas conforme sua necessidade.
 
-Criar descritivos das telas
+## Transações
+<img src="docs/telas/transacoes.png">
+Todas as transações são exibidas em forma de lista e podem ser filtradas através da ferramenta disposta na parte superior da guia, bem como o relatório por período.
+<img src="docs/telas/relatorioporperiodo.png">
+
+## Gráfico
+<img src="docs/telas/grafico.png">
+Ao final da exibição do relatório, o usuário pode acessar o gráfico para checar a relação entre receitas e despesas.
