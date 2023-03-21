@@ -16,7 +16,7 @@ O projeto utiliza as tecnologias:
 
 Para o projeto utilizamos o banco de dados relacional SQL Server, seguindo a modelagem de dados apresentada:
 
-<img src="myfinance-web-netcore\docs\MF_DER.png" alt="DER">
+<img src="docs/DER.png">
 
 - O banco de dados através se encontra no script: (myfinance-web-netcore\database\myfynance.sql)
 
