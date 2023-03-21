@@ -30,14 +30,14 @@ Para executar o projeto:
 ## Funcionalidades
 
 ## Criar Despesas
-<img src="docs/telas/planodecontas.png">
+<img src="docs/planodecontas.png">
 Nessa aba, o usuário pode inserir ou remover contas conforme sua necessidade.
 
 ## Transações
-<img src="docs/telas/transacoes.png">
+<img src="docs/transacoes.png">
 Todas as transações são exibidas em forma de lista e podem ser filtradas através da ferramenta disposta na parte superior da guia, bem como o relatório por período.
 <img src="docs/telas/relatorioporperiodo.png">
 
 ## Gráfico
-<img src="docs/telas/grafico.png">
+<img src="docs/grafico.png">
 Ao final da exibição do relatório, o usuário pode acessar o gráfico para checar a relação entre receitas e despesas.
