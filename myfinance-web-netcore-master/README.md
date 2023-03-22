@@ -36,7 +36,7 @@ Nessa aba, o usuário pode inserir ou remover contas conforme sua necessidade.
 ## Transações
 <img src="docs/transacoes.png">
 Todas as transações são exibidas em forma de lista e podem ser filtradas através da ferramenta disposta na parte superior da guia, bem como o relatório por período.
-<img src="docs/telas/relatorioporperiodo.png">
+<img src="docs/relatorioporperiodo.png">
 
 ## Gráfico
 <img src="docs/graficopizza.png">
