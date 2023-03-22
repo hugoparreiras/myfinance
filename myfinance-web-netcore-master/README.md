@@ -39,5 +39,5 @@ Todas as transações são exibidas em forma de lista e podem ser filtradas atra
 <img src="docs/telas/relatorioporperiodo.png">
 
 ## Gráfico
-<img src="docs/grafico.png">
+<img src="docs/graficodepizza.png">
 Ao final da exibição do relatório, o usuário pode acessar o gráfico para checar a relação entre receitas e despesas.
